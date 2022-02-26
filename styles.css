@@ -163,7 +163,7 @@ body{
     height: 50px;
     font-size: 30px;
     width: 170px;
-    overflow:visible
+    overflow:visible;
 }
 .add-item-button{
     background-color: black;
